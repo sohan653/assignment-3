@@ -1,0 +1,3 @@
+live link : https://curious-hamster-5142e7.netlify.app/
+client code : https://github.com/sohan653/assigment-ecom-client
+server code : https://github.com/sohan653/assignment-ecom-server
